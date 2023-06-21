@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className='App'>
-      <header className='App-header'>Welcome to React</header>
+      <header className='App-header'>GPT-3</header>
     </div>
   );
 }
