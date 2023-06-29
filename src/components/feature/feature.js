@@ -1,6 +1,8 @@
 import React from "react";
 import "./feature.css";
 
+console.log("test");
+
 const Feature = ({ title, text }) => (
   <div className='gpt3__features-container__feature'>
     <div className='gpt3__features-container__feature-title'>
